@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Android Navigation Component App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="handphone_table"><![CDATA[Handphone & Table]]></string>
+    <string name="top_up_tagihan"><![CDATA[Top-Up & Tagihan]]></string>
+    <string name="travel_entertainment"><![CDATA[Travel & Entertainment]]></string>
+    <string name="selesai">Selesai</string>
+    <string name="hp_gadget"><![CDATA[HP & Gadget]]></string>
+    <string name="belanja">Belanja</string>
+    <string name="_26_februari_2023">26 Februari 2023</string>
+    <string name="tanggal_feb">31 Februari 2023</string>
+    <string name="title_robot_earphone">Robot Earphone/Headset Android</string>
+    <string name="barang_terjual">1 barang</string>
+    <string name="barang_crucial_ssd">SSD Crucial MX500 500GB</string>
+    <string name="total_belanja">Total Belanja:</string>
+    <string name="price_satu">Rp 33.900</string>
+    <string name="price_dua">Rp 750.000</string>
+    <string name="ulas">Ulas</string>
+    <string name="beli_lagi">Beli Lagi</string>
+    <string name="menunggu_pembayaran">Menunggu Pembayaran</string>
+    <string name="cari_transaksi">Cari transaksi</string>
+    <string name="daftar_transaksi">Daftar Transaksi</string>
+    <string name="home">Home</string>
+    <string name="fashion">Fashion</string>
+    <string name="electronic">Electronic</string>
+    <string name="auto_hobbies">Auto Hobbies</string>
+    <string name="cari_di_official_store">Cari di Official Store</string>
+    <string name="pasti_ready">Pasti Ready</string>
+    <string name="pasti_ori">Pasti Ori</string>
+    <string name="pasti_original">Pasti Original</string>
+    <string name="garansi_7_hari">Garansi 7 Hari</string>
+</resources>
